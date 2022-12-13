@@ -7,6 +7,7 @@ function ListItemSeparator() {
   return <View style={styles.separator} />;
 }
 
+
 const styles = StyleSheet.create({
   separator: {
     width: "100%",
